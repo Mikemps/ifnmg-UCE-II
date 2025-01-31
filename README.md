@@ -1,16 +1,20 @@
 # UCE II - Software Para Robô Seguidor de Linha
-- Emily Júnia Costa Silva
-- Micael Pereira da Silva
-- Nífane Borges Guimarães
-- Vinicius Alves Amorim
+
+### Membros:
+- [Emily Júnia Costa Silva](https://github.com/Emillyjs)
+- [Micael Pereira da Silva](https://github.com/Mikemps)
+- [Nifane Borges Guimaraes](https://github.com/Nifane3)
+- [Vinícius Alves Amorim](https://github.com/am0rimdev)
 
     - __OBJETIVO__
         - Finalizar a implementação de um robô seguidor de linha, assegurando seu
         funcionamento eficaz para identificar e seguir trajetórias.
+
     - __JUSTIFICATIVA__
         - A necessidade identificada pelo projeto R.E.T.A. foi finalizar o desenvolvimento de
         um robô seguidor de linha. Iremos terminar a implementação do código aplicando
         todas as funcionalidades necessárias.
+
     - __METODOLOGIA__
         - Pesquisa e Planejamento: Estudar os conceitos de robótica móvel e algoritmos de
         seguimento de linha.
@@ -21,6 +25,7 @@
         performance.
         Documentação e Apresentação: Elaborar um relatório detalhando os
         procedimentos, resultados e aprendizados adquiridos ao longo do projeto.
+        
     - __RESULTADOS ESPERADOS__
         - Esperamos ter um robô funcional capaz de seguir trajetórias marcadas por uma linha
         no chão, utilizando sensores específicos para detecção e correção de percurso. O
