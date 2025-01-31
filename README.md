@@ -18,12 +18,12 @@
 - __METODOLOGIA__
     - Pesquisa e Planejamento: Estudar os conceitos de robótica móvel e algoritmos de
     seguimento de linha.
-    Desenvolvimento de Software: Analisar o software existente e dar continuidade a
+    - Desenvolvimento de Software: Analisar o software existente e dar continuidade a
     ele implementando as funcionalidades necessárias.
-    Testes e Ajustes: Realizar testes em diferentes cenários para validar o
+    - Testes e Ajustes: Realizar testes em diferentes cenários para validar o
     funcionamento do robô e realizar ajustes necessários para aprimorar sua
     performance.
-    Documentação e Apresentação: Elaborar um relatório detalhando os
+    - Documentação e Apresentação: Elaborar um relatório detalhando os
     procedimentos, resultados e aprendizados adquiridos ao longo do projeto.
 
 - __RESULTADOS ESPERADOS__
