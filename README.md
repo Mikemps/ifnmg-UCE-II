@@ -4,15 +4,15 @@
 - Nífane Borges Guimarães
 - Vinicius Alves Amorim
 
-    _ OBJETIVO
-        Finalizar a implementação de um robô seguidor de linha, assegurando seu
+    - __OBJETIVO__
+        - Finalizar a implementação de um robô seguidor de linha, assegurando seu
         funcionamento eficaz para identificar e seguir trajetórias.
-    - JUSTIFICATIVA
-        A necessidade identificada pelo projeto R.E.T.A. foi finalizar o desenvolvimento de
+    - __JUSTIFICATIVA__
+        - A necessidade identificada pelo projeto R.E.T.A. foi finalizar o desenvolvimento de
         um robô seguidor de linha. Iremos terminar a implementação do código aplicando
         todas as funcionalidades necessárias.
-    - METODOLOGIA
-        Pesquisa e Planejamento: Estudar os conceitos de robótica móvel e algoritmos de
+    - __METODOLOGIA__
+        - Pesquisa e Planejamento: Estudar os conceitos de robótica móvel e algoritmos de
         seguimento de linha.
         Desenvolvimento de Software: Analisar o software existente e dar continuidade a
         ele implementando as funcionalidades necessárias.
@@ -21,8 +21,8 @@
         performance.
         Documentação e Apresentação: Elaborar um relatório detalhando os
         procedimentos, resultados e aprendizados adquiridos ao longo do projeto.
-    - RESULTADOS ESPERADOS
-        Esperamos ter um robô funcional capaz de seguir trajetórias marcadas por uma linha
+    - __RESULTADOS ESPERADOS__
+        - Esperamos ter um robô funcional capaz de seguir trajetórias marcadas por uma linha
         no chão, utilizando sensores específicos para detecção e correção de percurso. O
         robô deverá operar de forma autônoma, respondendo de maneira eficiente a curvas,
         bifurcações e variações no trajeto, demonstrando precisão e estabilidade em seu
