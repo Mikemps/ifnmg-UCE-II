@@ -18,16 +18,19 @@ loop vazio() {
   int esq = digitalRead(SENSOR_ESQ);
   int dir = digitalRead(SENSOR_DIR);
 
-  se (esq == 0 && dir == 0) {
+  if (esq == 0 && dir == 0) {
     // Ambos os sensores detectam linha (seguir em frente)
     frente();
-  } senão se (esq == 0 && dir == 1) {
+  } 
+  else if (esq == 0 && dir == 1) {
     // Apenas o esquerdo detecta linha (vira para esquerda)
     esquerda();
-  } senão se (esq == 1 && dir == 0) {
+  } 
+  else if (esq == 1 && dir == 0) {
     // Apenas o direito detecta linha (vira para a direita)
     direita();
-  } outro {
+  } 
+  else {
     // Nenhum sensor detectado (parar ou ajustar)
     parar();
   }
