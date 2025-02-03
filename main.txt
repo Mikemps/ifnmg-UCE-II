@@ -1,0 +1,62 @@
+#define SENSOR_ESQ A0
+#define SENSOR_DIR A1
+#define IN1 5
+#define IN2 6
+#define IN3 9
+#define IN4 10
+
+configuração vazia() {
+  pinMode(SENSOR_ESQ, ENTRADA);
+  pinMode(SENSOR_DIR, ENTRADA);
+  pinMode(IN1, SAÍDA);
+  pinMode(IN2, SAÍDA);
+  pinMode(IN3, SAÍDA);
+  pinMode(IN4, SAÍDA);
+}
+
+loop vazio() {
+  int esq = digitalRead(SENSOR_ESQ);
+  int dir = digitalRead(SENSOR_DIR);
+
+  se (esq == 0 && dir == 0) {
+    // Ambos os sensores detectam linha (seguir em frente)
+    frente();
+  } senão se (esq == 0 && dir == 1) {
+    // Apenas o esquerdo detecta linha (vira para esquerda)
+    esquerda();
+  } senão se (esq == 1 && dir == 0) {
+    // Apenas o direito detecta linha (vira para a direita)
+    direita();
+  } outro {
+    // Nenhum sensor detectado (parar ou ajustar)
+    parar();
+  }
+}
+
+void frente() {
+  digitalWrite(IN1, ALTO);
+  digitalWrite(IN2, BAIXO);
+  digitalWrite(IN3, ALTO);
+  digitalWrite(IN4, BAIXO);
+}
+
+vazio esquerda() {
+  digitalWrite(IN1, BAIXO);
+  digitalWrite(IN2, ALTO);
+  digitalWrite(IN3, ALTO);
+  digitalWrite(IN4, BAIXO);
+}
+
+vazio direito() {
+  digitalWrite(IN1, ALTO);
+  digitalWrite(IN2, BAIXO);
+  digitalWrite(IN3, BAIXO);
+  digitalWrite(IN4, ALTO);
+}
+
+void parar() {
+  digitalWrite(IN1, BAIXO);
+  digitalWrite(IN2, BAIXO);
+  digitalWrite(IN3, BAIXO);
+  digitalWrite(IN4, BAIXO);
+}
