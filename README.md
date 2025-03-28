@@ -34,3 +34,19 @@
     funcionamento. Esperamos também que o projeto contribua para o nosso
     desenvolvimento de habilidades técnicas em robótica e programação.
 
+- __CRONOGRAMA__
+    - Pesquisa e planejamento
+    - Implementação dos sensores infravermelho
+    - Implementação das condições de parada
+    - Testes e ajustes
+
+- __RESULTADOS OBTIDOS__
+    -
+
+- __RELATÓRIO FINAL__
+    -
+
+![Robo](./images/robo1.jpg)
+![Robo](./images/robo2.jpg)
+![Robo](./images/robo3.jpg)
+
