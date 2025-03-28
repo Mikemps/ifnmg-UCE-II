@@ -48,9 +48,9 @@
 
 ### IMAGENS DO PROJETO:
 <div style="display: flex; justify-content: center; gap: 10px">
-    <img src="./images/robo1.jpg" alt="Robo" width="150">
-<img src="./images/robo2.jpg" alt="Robo" width="150">
-<img src="./images/robo3.jpg" alt="Robo" width="150">
+    <img src="./images/robo1.jpg" alt="Robo" width="200">
+    <img src="./images/robo2.jpg" alt="Robo" width="200">
+    <img src="./images/robo3.jpg" alt="Robo" width="200">
 </div>
 
 
