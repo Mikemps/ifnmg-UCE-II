@@ -46,7 +46,8 @@
 - __RELATÓRIO FINAL__
     -
 
-![Robo](./images/robo1.jpg)
-![Robo](./images/robo2.jpg)
-![Robo](./images/robo3.jpg)
+<img src="./images/robo1.jpg" alt="Robo" width="200">
+<img src="./images/robo2.jpg" alt="Robo" width="200">
+<img src="./images/robo3.jpg" alt="Robo" width="200">
+
 
