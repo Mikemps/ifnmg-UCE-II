@@ -47,10 +47,10 @@
     - 
 
 ### IMAGENS DO PROJETO:
-<div style="display: flex; justify-content: center; gap: 20px">
-    <img src="./images/robo1.jpg" alt="Robo" width="220">
-    <img src="./images/robo2.jpg" alt="Robo" width="220">
-    <img src="./images/robo3.jpg" alt="Robo" width="220">
+<div style="display: flex; justify-content: center; gap: 50px">
+    <img src="./images/robo1.jpg" alt="Robo" width="250">
+    <img src="./images/robo2.jpg" alt="Robo" width="250">
+    <img src="./images/robo3.jpg" alt="Robo" width="250">
 </div>
 
 
