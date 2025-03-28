@@ -41,13 +41,14 @@
     - Testes e ajustes
 
 - __RESULTADOS OBTIDOS__
-    -
+    - 
 
 - __RELATÓRIO FINAL__
-    -
+    - 
 
-<img src="./images/robo1.jpg" alt="Robo" width="200">
-<img src="./images/robo2.jpg" alt="Robo" width="200">
-<img src="./images/robo3.jpg" alt="Robo" width="200">
+### IMAGENS DO PROJETO:
+<img src="./images/robo1.jpg" alt="Robo" width="150">
+<img src="./images/robo2.jpg" alt="Robo" width="150">
+<img src="./images/robo3.jpg" alt="Robo" width="150">
 
 
